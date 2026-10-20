@@ -8,7 +8,7 @@ my investigation process, findings, and lessons learned.
 
 | Lab | Focus | Write-up |
 |---|---|---|
-| 1 | Learn Sigma | [Lab 1](letsdefend/learn_sigma.md) |
+| 1 | Learn Sigma | [Lab 1](sc-analyst-portfolio/letsdefend/learn_sigma.md) |
 
 ## Approach
 

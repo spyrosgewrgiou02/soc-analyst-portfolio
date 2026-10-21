@@ -9,6 +9,7 @@ my investigation process, findings, and lessons learned.
 | Lab | Focus | Write-up |
 |---|---|---|
 | 1 | Learn Sigma | [Lab 1](letsdefend/beginner/learn_sigma.md) |
+| 2 | Malicious AutoIt Analysis | [Lab 2](letsdefend/beginner/malicious_autoit.md) |
 
 ## Approach
 

@@ -6,10 +6,11 @@ my investigation process, findings, and lessons learned.
 
 ## Labs
 
-| Lab | Focus | Write-up |
-|---|---|---|
-| 1 | Learn Sigma | [Lab 1](letsdefend/beginner/learn_sigma.md) |
-| 2 | Malicious AutoIt Analysis | [Lab 2](letsdefend/beginner/malicious_autoit.md) |
+| Lab | Focus |
+|---|---|
+| 1 | Learn Sigma |
+| 2 | Malicious AutoIt Analysis | 
+| 3 | PCAP Analysis & HTTP Forensics | 
 
 ## Approach
 
